@@ -9,7 +9,7 @@ Ongoing projects
 ---
 |project name|duration|progress|
 |------------|--------|--------|
-|[Smart-Lab (스마트 랩)](https://github.com/OS-LAB-DaejinUniv/Smart-Lab)|2024/05/14 ~ now|![](https://geps.dev/progress/30)|
+|[Smart-Lab (스마트 랩)](https://github.com/OS-LAB-DaejinUniv/Smart-Lab)|2024/05/14 ~ now|![](https://geps.dev/progress/70)|
 
 Past projects
 ---
