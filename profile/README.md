@@ -1,4 +1,4 @@
-<img src="https://github.com/OS-LAB-DaejinUniv/OS-Github-Playground/blob/main/logo/로고_여백없음_배경없음.png?raw=true" width="235" height="55">
+<img src="https://github.com/OS-LAB-DaejinUniv/OS-Github-Playground/blob/main/logo/로고_여백없음_배경없음.png?raw=true" width="245" height="55">
 
 Operating System Lab. of Daejin University.
 ---
