@@ -3,6 +3,10 @@
 Operating System Lab. of Daejin University.
 ---
 대진대학교 컴퓨터공학전공 운영체제 연구실입니다.
+
+You can find more details on our [website](https://os.daejin.ac.kr/).
+[연구실 홈페이지](https://os.daejin.ac.kr/)에서 더 자세한 사항을 확인하실 수 있습니다.
+<br>
 <br>
 
 Ongoing projects
