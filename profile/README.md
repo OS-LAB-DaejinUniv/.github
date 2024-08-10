@@ -13,8 +13,10 @@ Ongoing projects
 ---
 |project name|duration|progress|
 |------------|--------|--------|
-|[Smart-Lab (스마트 랩)](https://github.com/OS-LAB-DaejinUniv/Smart-Lab)|2024/05/14 ~ now|![](https://geps.dev/progress/90)|
 |[OSLab-2FA (2단계 인증 서비스)]()|2024/06/25 ~ now|![](https://geps.dev/progress/0)|
 
 Past projects
 ---
+|project name|duration|progress|
+|------------|--------|--------|
+|[Smart-Lab (스마트 랩)](https://github.com/OS-LAB-DaejinUniv/Smart-Lab)|2024/05/14 ~ 2024/08/10|![](https://geps.dev/progress/100)|
