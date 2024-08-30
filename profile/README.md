@@ -13,6 +13,12 @@ Ongoing projects
 ---
 |project name|duration|progress|
 |------------|--------|--------|
+|There are no ongoing projects for now.|
+
+Paused Projects
+---
+|project name|duration|progress|
+|------------|--------|--------|
 |[OSLab-2FA (2단계 인증 서비스)]()|2024/06/25 ~ now|![](https://geps.dev/progress/0)|
 
 Past projects
