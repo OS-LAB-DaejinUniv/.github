@@ -13,7 +13,7 @@ Ongoing projects
 ---
 |project name|duration|progress|
 |------------|--------|--------|
-|[OSLab-2FA (2단계 인증 서비스)]()|2024/10/2 ~ now|![](https://geps.dev/progress/0)|
+|[OSPass (스마트카드 로그인 서비스)](https://github.com/OS-LAB-DaejinUniv/OSPass)|2024/10/2 ~ now|![](https://geps.dev/progress/0)|
 
 Paused Projects
 ---
