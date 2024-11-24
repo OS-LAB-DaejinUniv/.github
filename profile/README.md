@@ -26,3 +26,5 @@ Past projects
 |project name|duration|progress|
 |------------|--------|--------|
 |[Smart-Lab (스마트 랩)](https://github.com/OS-LAB-DaejinUniv/Smart-Lab)|2024/05/14 ~ 2024/08/10|![](https://geps.dev/progress/100)|
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsnwls&layout=compact&theme=swift)
