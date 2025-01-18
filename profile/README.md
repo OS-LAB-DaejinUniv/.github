@@ -13,7 +13,7 @@ Ongoing projects
 ---
 |project name|duration|progress|
 |------------|--------|--------|
-|[OSPass (스마트카드 로그인 서비스)](https://github.com/OS-LAB-DaejinUniv/OSPass)|2024/10/2 ~ now|![](https://geps.dev/progress/60)|
+|[OSPass (스마트카드 로그인 서비스)](https://github.com/OS-LAB-DaejinUniv/OSPass)|2024/10/2 ~ now|![](https://geps.dev/progress/70)|
 
 Paused Projects
 ---
