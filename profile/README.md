@@ -26,7 +26,7 @@ Past projects
 |project name|duration|progress|
 |------------|--------|--------|
 |[Smart-Lab (스마트 랩)](https://github.com/OS-LAB-DaejinUniv/Smart-Lab)|2024/05/14 ~ 2024/08/10|![](https://geps.dev/progress/100)|
----
+
 |project name|duration|progress|
 |------------|--------|--------|
 |[OneCard (Java Card based OIDC Server)](https://github.com/OneCard-OSS/OneCard.git)|2025/07~2025/08|![](https://geps.dev/progress/100)|
